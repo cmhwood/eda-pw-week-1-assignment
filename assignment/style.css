@@ -1,11 +1,13 @@
 /* Add a background color to the header element */
 header {
   background-color: dodgerblue;
+  padding: 2px;
 }
 
 /* Add a fun background color to the main element */
 main {
   background-color: darkslategrey;
+  padding: 2px;
 }
 
 /* Align the h1 containing your name in the center of the header*/
@@ -26,6 +28,9 @@ p {
 /* Put a border around your image */
 img {
   border: 16px solid black;
+  display: block;
+  width: 50%;
+  height: auto;
 }
 
 /* Change the font-family of your list */
@@ -38,4 +43,5 @@ li {
 footer {
   background-color: black;
   font-size: larger;
+  padding: 2px;
 }
