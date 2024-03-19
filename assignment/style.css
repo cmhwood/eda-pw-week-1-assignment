@@ -1,13 +1,39 @@
 /* Add a background color to the header element */
+header {
+    background-color: dodgerblue;
+}
 
 /* Add a fun background color to the main element */
+main {
+    background-color: darkslategrey;
+}
 
 /* Align the h1 containing your name in the center of the header*/
+h1 {
+    text-align: center;
+}
+.job-title {
+    text-align: center;
+    font-weight: bold;
+}
 
 /* Make your p tag a different color and italic */
+p {
+    color: springgreen;
+    font-style: italic;
+}
 
 /* Put a border around your image */
+img {
+    border: 16px solid black;
+}
 
 /* Change the font-family of your list */
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 
 /* Add a background color to the footer element */
+footer {
+    background-color: black;
+}
